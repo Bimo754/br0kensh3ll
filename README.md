@@ -5,6 +5,8 @@
 br0kensh3ll is a php file that is used in file upload vulnerabilities that will give basic shell access to the attacker if uploaded to a target machine.
 <br>
 All you need to do is upload the br0kensh3ll.php file to the target machine and enjoy your shell :)
+<br>
+The animations are taken from the [skull](https://github.com/Bimo754/skull) repository
 
 ## Change the password
 
@@ -21,6 +23,7 @@ And replace the outputted hash inside the br0kensh3ll.php file
 
 ## Features
 
+- 2 skull login animation for being a 'cool' hacker ;)
 - UI at the top displaying system information
 - Tab completions for easier command execution
 - Warning system for when the target limits PHP command execution
